@@ -14,20 +14,6 @@
 - 测试 `OpenClaw` 对 GitHub 仓库的创建、拉取、提交、推送能力
 - 保存一些操作说明文档，避免下次再口述一遍
 
-#### 本地目录约定
-
-`yunzheng995` 名下的 GitHub 项目统一存放在：
-
-```bash
-/root/github.com/yunzheng995
-```
-
-例如本仓库本地路径为：
-
-```bash
-/root/github.com/yunzheng995/helloworld
-```
-
 #### 当前状态
 
 - 仓库已创建
